@@ -37,10 +37,9 @@ h2 {
 
 p,
 ul {
-  font-size: 1.1875em;
+  font-size: 1em;
   line-height: 1em;
-  padding: 1em;
-  text-indent: 1.2em;
+  text-indent: 1em;
 }
 
 img, video {
@@ -48,11 +47,11 @@ img, video {
   padding: 0.62em; 
   display: block;
 	padding-bottom: 0.333em;
-	padding-top: 0.333em;
+	margin-top: 0.333em;
 }
 
 li {
-  font-size: 1.0625em;
+  font-size: 1em;
   line-height: 0.667em;
   padding: 0.5em 0.5em 0.5em 0.5em;
 }
