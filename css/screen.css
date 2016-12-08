@@ -47,6 +47,8 @@ img, video {
   width: 100%;
   padding: 0.62em; 
   display: block;
+	padding-bottom: 0.333em;
+	margin-top: 0.333em;
 }
 
 li {
@@ -57,6 +59,12 @@ li {
 
 li:last-child{
   padding-bottom: 0;
+}
+
+figcaption {
+	font-size: 1em;
+	padding-bottom: 0.333em;
+	text-indent: 10%;
 }
 
 

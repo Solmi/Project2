@@ -37,7 +37,7 @@ h2 {
 
 p,
 ul {
-  font-size: 1.0625em;
+  font-size: 1.1875em;
   line-height: 1em;
   padding: 1em;
   text-indent: 1.2em;
@@ -47,16 +47,24 @@ img, video {
   width: 100%;
   padding: 0.62em; 
   display: block;
+	padding-bottom: 0.333em;
+	padding-top: 0.333em;
 }
 
 li {
-  font-size: 1.1875em;
+  font-size: 1.0625em;
   line-height: 0.667em;
   padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
 li:last-child{
   padding-bottom: 0;
+}
+
+figcaption {
+	font-size: 1em;
+	padding-bottom: 0.333em;
+	text-indent: 10%;
 }
 
 
